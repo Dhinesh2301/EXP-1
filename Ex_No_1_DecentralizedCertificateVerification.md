@@ -1,4 +1,4 @@
-### Experiment 1: Decentralized Certificate Verification
+### Experiment 2: Decentralized Certificate Verification
 
 ```
 Name : DHINESH R
